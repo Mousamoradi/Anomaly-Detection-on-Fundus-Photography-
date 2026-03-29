@@ -166,12 +166,7 @@ with open('embeddings.pkl', 'wb') as f: pickle.dump(d, f, protocol=4)
 If you use this toolkit in your research, please cite:
 
 ```bibtex
-@article{moradi2025retfound_distributional,
-  title   = {Distributional Analysis of Publicly Available Retinal Fundus Photograph Datasets Using RETFound},
-  author  = {Moradi, Mousa and Zebardast, Nazlee and others},
-  journal = {Under Review},
-  year    = {2025}
-}
+TBD
 ```
 
 Also cite the original RETFound paper:
